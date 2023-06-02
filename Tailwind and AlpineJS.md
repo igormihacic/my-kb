@@ -40,4 +40,6 @@
 
 - https://js.hyperui.dev/
 
+### Alpine plugins
+
 - 
