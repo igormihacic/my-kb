@@ -20,6 +20,10 @@
 - Push new branch to github
   `git push -u origin <branch-name>`
 
+- merge branch with Fast Forward
+  `git checkout main`
+  `git merge --no-ff staging`
+
 - 
 
 ## Git Articles and How-to's
